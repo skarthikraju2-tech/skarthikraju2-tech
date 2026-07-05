@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**skarthikraju2-tech/skarthikraju2-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Karthik Raju** — a passionate developer who loves building clean, useful software and continuously learning new technologies.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 Currently learning and improving in **full-stack development**
+- 💡 Interested in **web development, software engineering, and AI tools**
+- 🛠️ I enjoy turning ideas into real, working products
+- 🤝 Open to collaborating on exciting projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- **Languages:** JavaScript, TypeScript, Python, Java
+- **Frontend:** React, HTML, CSS, Tailwind
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, PostgreSQL
+- **Tools:** Git, GitHub, VS Code
+
+### 📌 Current Focus
+- Building practical full-stack projects
+- Writing cleaner, scalable code
+- Strengthening DSA and system design fundamentals
+
+### 📫 Connect With Me
+- GitHub: [@skarthikraju2-tech](https://github.com/skarthikraju2-tech)
+- LinkedIn: *(add your LinkedIn URL here)*
+- Portfolio: *(add your portfolio URL here)*
+
+---
+⭐️ Thanks for visiting my profile!
