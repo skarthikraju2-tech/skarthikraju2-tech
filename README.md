@@ -22,7 +22,7 @@ I'm **Karthik Raju** — a passionate developer who loves building clean, useful
 
 ### 📫 Connect With Me
 - GitHub: [@skarthikraju2-tech](https://github.com/skarthikraju2-tech)
-- LinkedIn: *(add your LinkedIn URL here)*
+- LinkedIn: www.linkedin.com/in/karthik-raju-a2b645406
 - Portfolio: *(add your portfolio URL here)*
 
 ---
