@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm KARTHIK RAJ h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New;Welcome+to+my+profile+%F0%9F%91%8B" alt="Typing SVG" />
@@ -27,11 +27,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **Project Name**
+- 🔭 I'm currently working on **CODE HUB**
 - 🌱 I'm currently learning **Technology / Framework**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Your Skills / Domains**
-- ⚡ Fun fact: **Something interesting about you**
+- 💬 Ask me about **Your Skills / Domains*
 
 ---
 
